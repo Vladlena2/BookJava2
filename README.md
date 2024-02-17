@@ -1,6 +1,8 @@
-# BookJava2
-Java. The Complete Reference Twelfth Edition. Herbert Schildt
+## Книга "Java полное руководство - Герберт Шилдт, 12-е издание, 2022г."
 
+<small>
+
+#### Оглавление
 
 <details ГЛАВА 13><summary>ГЛАВА 13. "Ввод-вывод, оператор try с ресурсами и др."</summary>
 <blockquote>
@@ -737,6 +739,9 @@ this() *нельзя* использовать переменные экземп
 это
 вообще имеет место. Следует, однако, иметь в виду, что в версии JDK 9 на смену компактным профилям пришли внедренные в
 ней модули.
+</details>
+
+</blockquote>
 </details>
 
 </blockquote>
